@@ -10,7 +10,8 @@ description: My lorem ipsum
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/wellart/wellart.github.io/master/images/avatar.jpg
-theme: jekyll-theme-hacker
+#
+highlighter: rouge
 collections:
   authors:
     output: true
