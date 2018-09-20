@@ -30,7 +30,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-gems:
+plugins :
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
